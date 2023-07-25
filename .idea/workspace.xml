@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2fe3ef30-032f-4522-a3d1-4441934640f2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/B02_KDVTutariHesaplama.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/B02_KDVTutariHesaplama.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/B03_HipotenusHesaplama.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +37,7 @@
     "onboarding.tips.debug.path": "C:/Users/Rues/IdeaProjects/BeginnerJavaProjects/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.B02_KDVTutariHesaplama">
+  <component name="RunManager" selected="Application.B03_HipotenusHesaplama">
     <configuration name="B01_NotOrtalamasiHesaplama" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="B01_NotOrtalamasiHesaplama" />
       <module name="BeginnerJavaProjects" />
@@ -51,8 +52,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="B03_HipotenusHesaplama" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="B03_HipotenusHesaplama" />
+      <module name="BeginnerJavaProjects" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.B03_HipotenusHesaplama" />
         <item itemvalue="Application.B02_KDVTutariHesaplama" />
         <item itemvalue="Application.B01_NotOrtalamasiHesaplama" />
       </list>
