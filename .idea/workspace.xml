@@ -5,8 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2fe3ef30-032f-4522-a3d1-4441934640f2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/B03_HipotenusHesaplama.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/B00_SınıftaKaldın.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/B00_SınıftaKaldın.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/B04_VucutKitleIndeksiHesaplama.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/B04_VucutKitleIndeksiHesaplama.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/B05_Manav.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/B05_Manav.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/B06_DaireAlanHesaplama.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/B06_DaireAlanHesaplama.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/B07_Taksimetre.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/B07_Taksimetre.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/B08_BasitHesapMakinesi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/B08_BasitHesapMakinesi.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,31 +34,45 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "onboarding.tips.debug.path": "C:/Users/Rues/IdeaProjects/BeginnerJavaProjects/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Rues/IdeaProjects/BeginnerJavaProjects/src/Main.java&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.B03_HipotenusHesaplama">
-    <configuration name="B01_NotOrtalamasiHesaplama" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="B01_NotOrtalamasiHesaplama" />
+}</component>
+  <component name="RunManager" selected="Application.B08_BasitHesapMakinesi">
+    <configuration name="B00_SınıftaKaldın" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="B00_SınıftaKaldın" />
       <module name="BeginnerJavaProjects" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="B02_KDVTutariHesaplama" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="B02_KDVTutariHesaplama" />
+    <configuration name="B05_Manav" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="B05_Manav" />
       <module name="BeginnerJavaProjects" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="B03_HipotenusHesaplama" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="B03_HipotenusHesaplama" />
+    <configuration name="B06_DaireAlanHesaplama" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="B06_DaireAlanHesaplama" />
+      <module name="BeginnerJavaProjects" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="B07_Taksimetre" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="B07_Taksimetre" />
+      <module name="BeginnerJavaProjects" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="B08_BasitHesapMakinesi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="B08_BasitHesapMakinesi" />
       <module name="BeginnerJavaProjects" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -61,9 +80,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.B03_HipotenusHesaplama" />
-        <item itemvalue="Application.B02_KDVTutariHesaplama" />
-        <item itemvalue="Application.B01_NotOrtalamasiHesaplama" />
+        <item itemvalue="Application.B08_BasitHesapMakinesi" />
+        <item itemvalue="Application.B07_Taksimetre" />
+        <item itemvalue="Application.B06_DaireAlanHesaplama" />
+        <item itemvalue="Application.B05_Manav" />
+        <item itemvalue="Application.B00_SınıftaKaldın" />
       </list>
     </recent_temporary>
   </component>

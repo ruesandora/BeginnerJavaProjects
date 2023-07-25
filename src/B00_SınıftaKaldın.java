@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class B05_Test {
+public class B00_SınıftaKaldın {
   public static void main(String[] args) {
 
     double fizik, tarih, matematik, kimya, biyoloji, edebiyat, ortalama;
@@ -53,12 +53,12 @@ public class B05_Test {
 //    } else System.out.println("Siktirname kazandınız");
 
     if (ortalama < 0.0 || ortalama > 100.0){
-      System.out.println("Mal mısın oglum böyle bir deger yok.");
+      System.out.println("Geçersiz değer..");
     } else if (ortalama >= 65 && ortalama < 75) {
       System.out.println("Teşekkür belgesi aldın!");
     } else if (ortalama >= 75 && ortalama < 100) {
       System.out.println("Taktir belgesi aldınız!");
-    } else System.out.println("Siktirname kazandınız");
+    } else System.out.println("Herhangi bir  belge kazanamadınız.");
 
 
 
