@@ -12,10 +12,17 @@ public class B02_KDVTutariHesaplama {
     tutar = scanner.nextInt();
     System.out.println();
 
-    System.out.println("- KDV oranı %18");
-    kdv = tutar * 0.18;
-    System.out.println("- KDV Tutarı: " + kdv);
-    System.out.println("- KDV'li Tutar: " + (tutar + kdv));
+    if (tutar > 500){
+      System.out.println("- KDV oranı %8");
+      kdv = tutar * 0.08;
+      System.out.println("- KDV Tutarı: " + kdv);
+      System.out.println("- KDV'li Tutar: " + (tutar + kdv));
+    } else {
+      System.out.println("- KDV oranı %18");
+      kdv = tutar * 0.18;
+      System.out.println("- KDV Tutarı: " + kdv);
+      System.out.println("- KDV'li Tutar: " + (tutar + kdv));
+    }
 
   }
 }
