@@ -40,10 +40,9 @@ public class B08_BasitHesapMakinesi {
       System.out.println(num1 - num2);
     } else if (islem == 3) {
       System.out.println(num1 * num2);
-    } else if (num1 >= 1 && num2 >= 1 && islem == 4) {
+    } else if (islem == 4 && num1 > 0 && num2 > 0) {
       System.out.println(num1 / num2);
     } else System.out.println("Geçersiz işlem..");
-
 
   }
 }

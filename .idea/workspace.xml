@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2fe3ef30-032f-4522-a3d1-4441934640f2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/B09_EtknlikOnerme.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/B00_SınıftaKaldın.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/B00_SınıftaKaldın.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/B04_VucutKitleIndeksiHesaplama.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/B04_VucutKitleIndeksiHesaplama.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/B05_Manav.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/B05_Manav.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/B06_DaireAlanHesaplama.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/B06_DaireAlanHesaplama.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/B07_Taksimetre.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/B07_Taksimetre.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/B08_BasitHesapMakinesi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/B08_BasitHesapMakinesi.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,14 +38,7 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Rues/IdeaProjects/BeginnerJavaProjects/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.B08_BasitHesapMakinesi">
-    <configuration name="B00_SınıftaKaldın" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="B00_SınıftaKaldın" />
-      <module name="BeginnerJavaProjects" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.B09_EtknlikOnerme">
     <configuration name="B05_Manav" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="B05_Manav" />
       <module name="BeginnerJavaProjects" />
@@ -78,13 +67,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="B09_EtknlikOnerme" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="B09_EtknlikOnerme" />
+      <module name="BeginnerJavaProjects" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.B09_EtknlikOnerme" />
         <item itemvalue="Application.B08_BasitHesapMakinesi" />
         <item itemvalue="Application.B07_Taksimetre" />
         <item itemvalue="Application.B06_DaireAlanHesaplama" />
         <item itemvalue="Application.B05_Manav" />
-        <item itemvalue="Application.B00_SınıftaKaldın" />
       </list>
     </recent_temporary>
   </component>
