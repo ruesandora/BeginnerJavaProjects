@@ -99,22 +99,6 @@ public class B13_BurcBulanProgram {
     } else if (month == 12 && day >= 22 && day <= 31){
       System.out.println("Oğlak Burcu : 22 Aralık - 21 Ocak");
     }
-
-    // 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20, 21 22 23 24 25 26 27 28 29 30 31
-
-//        Koç Burcu : 21 Mart - 20 Nisan -
-//        Boğa Burcu : 21 Nisan - 21 Mayıs -
-//        İkizler Burcu : 22 Mayıs - 22 Haziran -
-//        Yengeç Burcu : 23 Haziran - 22 Temmuz -
-//        Aslan Burcu : 23 Temmuz - 22 Ağustos -
-//        Başak Burcu : 23 Ağustos - 22 Eylül -
-//        Terazi Burcu : 23 Eylül - 22 Ekim -
-//        Akrep Burcu : 23 Ekim - 21 Kasım -
-//        Yay Burcu : 22 Kasım - 21 Aralık -
-//        Oğlak Burcu : 22 Aralık - 21 Ocak -
-//        Kova Burcu : 22 Ocak - 19 Şubat -
-//        Balık Burcu : 20 Şubat - 20 Mart -
-
   }
 
 
