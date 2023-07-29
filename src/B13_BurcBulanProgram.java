@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class B13_BurçBulanProgram {
+public class B13_BurcBulanProgram {
   public static void main(String[] args) {
 
     /*
@@ -58,21 +58,62 @@ public class B13_BurçBulanProgram {
       System.out.println("İkizler Burcu : 22 Mayıs - 22 Haziran");
     }
 
+    if (month == 6 && day >= 1 && day <= 22){
+      System.out.println("İkizler Burcu : 22 Mayıs - 22 Haziran");
+    } else if (month == 6 && day >= 23 && day <= 31){
+      System.out.println("Yengeç Burcu : 23 Haziran - 22 Temmuz");
+    }
+
+    if (month == 7 && day >= 1 && day <= 22){
+      System.out.println("Yengeç Burcu : 23 Haziran - 22 Temmuz");
+    } else if (month == 7 && day >= 23 && day <= 31){
+      System.out.println("Aslan Burcu : 23 Temmuz - 22 Ağustos");
+    }
+
+    if (month == 8 && day >= 1 && day <= 22){
+      System.out.println("Aslan Burcu : 23 Temmuz - 22 Ağustos");
+    } else if (month == 8 && day >= 23 && day <= 31){
+      System.out.println("Başak Burcu : 23 Ağustos - 22 Eylül");
+    }
+
+    if (month == 9 && day >= 1 && day <= 22){
+      System.out.println("Başak Burcu : 23 Ağustos - 22 Eylül");
+    } else if (month == 9 && day >= 23 && day <= 31){
+      System.out.println("Terazi Burcu : 23 Eylül - 22 Ekim");
+    }
+
+    if (month == 10 && day >= 1 && day <= 22){
+      System.out.println("Terazi Burcu : 23 Eylül - 22 Ekim");
+    } else if (month == 10 && day >= 23 && day <= 31){
+      System.out.println("Akrep Burcu : 23 Ekim - 21 Kasım");
+    }
+
+    if (month == 11 && day >= 1 && day <= 21){
+      System.out.println("Akrep Burcu : 23 Ekim - 21 Kasım");
+    } else if (month == 11 && day >= 22 && day <= 31){
+      System.out.println("Yay Burcu : 22 Kasım - 21 Aralık");
+    }
+
+    if (month == 12 && day >= 1 && day <= 21){
+      System.out.println("Yay Burcu : 22 Kasım - 21 Aralık");
+    } else if (month == 12 && day >= 22 && day <= 31){
+      System.out.println("Oğlak Burcu : 22 Aralık - 21 Ocak");
+    }
+
     // 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20, 21 22 23 24 25 26 27 28 29 30 31
 
-//        Koç Burcu : 21 Mart - 20 Nisan
-//        Boğa Burcu : 21 Nisan - 21 Mayıs
-//        İkizler Burcu : 22 Mayıs - 22 Haziran
-//        Yengeç Burcu : 23 Haziran - 22 Temmuz
-//        Aslan Burcu : 23 Temmuz - 22 Ağustos
-//        Başak Burcu : 23 Ağustos - 22 Eylül
-//        Terazi Burcu : 23 Eylül - 22 Ekim
-//        Akrep Burcu : 23 Ekim - 21 Kasım
-//        Yay Burcu : 22 Kasım - 21 Aralık
-//        Oğlak Burcu : 22 Aralık - 21 Ocak
-//        Kova Burcu : 22 Ocak - 19 Şubat
-//        Balık Burcu : 20 Şubat - 20 Mart
-
+//        Koç Burcu : 21 Mart - 20 Nisan -
+//        Boğa Burcu : 21 Nisan - 21 Mayıs -
+//        İkizler Burcu : 22 Mayıs - 22 Haziran -
+//        Yengeç Burcu : 23 Haziran - 22 Temmuz -
+//        Aslan Burcu : 23 Temmuz - 22 Ağustos -
+//        Başak Burcu : 23 Ağustos - 22 Eylül -
+//        Terazi Burcu : 23 Eylül - 22 Ekim -
+//        Akrep Burcu : 23 Ekim - 21 Kasım -
+//        Yay Burcu : 22 Kasım - 21 Aralık -
+//        Oğlak Burcu : 22 Aralık - 21 Ocak -
+//        Kova Burcu : 22 Ocak - 19 Şubat -
+//        Balık Burcu : 20 Şubat - 20 Mart -
 
   }
 
