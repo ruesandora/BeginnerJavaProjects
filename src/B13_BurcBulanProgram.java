@@ -28,6 +28,15 @@ public class B13_BurcBulanProgram {
     System.out.print("Lütfen doğduğunuz günü giriniz: ");
     int day = scan.nextInt();
 
+    if ((month <= 0 ) || (month >= 13)){
+      System.out.println("Geçersiz ay girişi.");
+    }
+    if (day < 1 || day > 31) {
+      System.out.println("Geçersiz gün girişi.");
+    }
+
+    System.out.println();
+
     if (month == 1 && day >= 22 && day <= 31){
       System.out.println("Kova Burcu : 22 Ocak - 19 Şubat");
     } else if (month == 1 && day <= 22 && day >= 1){
