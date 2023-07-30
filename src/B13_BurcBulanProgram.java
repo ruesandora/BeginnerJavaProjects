@@ -35,8 +35,6 @@ public class B13_BurcBulanProgram {
       System.out.println("Geçersiz gün girişi.");
     }
 
-    System.out.println();
-
     if (month == 1 && day >= 22 && day <= 31){
       System.out.println("Kova Burcu : 22 Ocak - 19 Şubat");
     } else if (month == 1 && day <= 22 && day >= 1){

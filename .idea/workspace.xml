@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2fe3ef30-032f-4522-a3d1-4441934640f2" name="Changes" comment="" />
+    <list default="true" id="2fe3ef30-032f-4522-a3d1-4441934640f2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/B14_CiftSayilariBulma.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/B13_BurcBulanProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/B13_BurcBulanProgram.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,16 +36,14 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Rues/IdeaProjects/BeginnerJavaProjects/src/Main.java&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;XsdRegExp&quot;
+    ]
   }
 }</component>
-  <component name="RunManager" selected="Application.B13_BurcBulanProgram">
-    <configuration name="B09_EtknlikOnerme" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="B09_EtknlikOnerme" />
-      <module name="BeginnerJavaProjects" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.B14_CiftSayilariBulma">
     <configuration name="B10_SayilariSiralama" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="B10_SayilariSiralama" />
       <module name="BeginnerJavaProjects" />
@@ -70,13 +72,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="B14_CiftSayilariBulma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="B14_CiftSayilariBulma" />
+      <module name="BeginnerJavaProjects" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.B14_CiftSayilariBulma" />
         <item itemvalue="Application.B13_BurcBulanProgram" />
         <item itemvalue="Application.B12_CinZodyagi" />
         <item itemvalue="Application.B11_ArtikYil" />
         <item itemvalue="Application.B10_SayilariSiralama" />
-        <item itemvalue="Application.B09_EtknlikOnerme" />
       </list>
     </recent_temporary>
   </component>
