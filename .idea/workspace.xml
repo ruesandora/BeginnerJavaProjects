@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="2fe3ef30-032f-4522-a3d1-4441934640f2" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/B14_CiftSayilariBulma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/B14_CiftSayilariBulma.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,14 +41,7 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="Application.B14_CiftSayilariBulma">
-    <configuration name="B10_SayilariSiralama" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="B10_SayilariSiralama" />
-      <module name="BeginnerJavaProjects" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.B15_TekSayilarinToplami">
     <configuration name="B11_ArtikYil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="B11_ArtikYil" />
       <module name="BeginnerJavaProjects" />
@@ -78,13 +70,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="B15_TekSayilarinToplami" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="B15_TekSayilarinToplami" />
+      <module name="BeginnerJavaProjects" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.B15_TekSayilarinToplami" />
         <item itemvalue="Application.B14_CiftSayilariBulma" />
         <item itemvalue="Application.B13_BurcBulanProgram" />
         <item itemvalue="Application.B12_CinZodyagi" />
         <item itemvalue="Application.B11_ArtikYil" />
-        <item itemvalue="Application.B10_SayilariSiralama" />
       </list>
     </recent_temporary>
   </component>
